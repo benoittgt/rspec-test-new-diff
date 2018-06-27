@@ -1,6 +1,6 @@
 GIT
   remote: git://github.com/rspec/rspec-expectations.git
-  revision: a73141047966b269a2e779a540ac201b3847a4a7
+  revision: 8a5845f4441654caddfac7246d2a86aae3a4c237
   branch: switch-to-diff-object-formater
   specs:
     rspec-expectations (3.8.pre)
@@ -9,7 +9,7 @@ GIT
 
 GIT
   remote: git://github.com/rspec/rspec-support.git
-  revision: 7efe23dd71717c1499b6db584785e5398aed680b
+  revision: c44593093c2869f940f12642936aff549d990583
   branch: display-string-diff-in-long-output
   specs:
     rspec-support (3.8.pre)
